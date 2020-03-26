@@ -35,11 +35,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/JAVA/Java projects/1/GemeXoOOP" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/15092019" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.MainEnum1">
+  <component name="RunManager" selected="Application.ThreadMain">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -47,13 +47,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="InnerAndOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.InnerAndOuter" />
+    <configuration name="MainArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.HW5.MainArr" />
       <module name="15092019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.Less2.*" />
+          <option name="PATTERN" value="Lesson_5.HW5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFacEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.Less2.MainFacEx" />
+    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.HW5.ThreadMain" />
       <module name="15092019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.Less2.*" />
+          <option name="PATTERN" value="Lesson_5.HW5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InnerAndOuter" />
-      <item itemvalue="Application.MainFacEx" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.MainEnum (1)" />
       <item itemvalue="Application.MainEnum1" />
+      <item itemvalue="Application.MainArr" />
+      <item itemvalue="Application.ThreadMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadMain" />
+        <item itemvalue="Application.MainArr" />
         <item itemvalue="Application.MainEnum1" />
         <item itemvalue="Application.MainEnum (1)" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.MainFacEx" />
-        <item itemvalue="Application.InnerAndOuter" />
       </list>
     </recent_temporary>
   </component>
@@ -186,30 +186,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="878" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1585067148215">
+    <state x="878" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1585237821617">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="878" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585067148215" />
-    <state x="549" y="179" key="FileChooserDialogImpl" timestamp="1585061758678">
+    <state x="878" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585237821617" />
+    <state x="549" y="179" key="FileChooserDialogImpl" timestamp="1585242481188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585061758678" />
-    <state width="767" height="271" key="GridCell.Tab.0.bottom" timestamp="1585067947235">
+    <state x="549" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585242481188" />
+    <state width="770" height="270" key="GridCell.Tab.0.bottom" timestamp="1585243909507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="767" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585067947235" />
-    <state width="767" height="271" key="GridCell.Tab.0.center" timestamp="1585067947235">
+    <state width="770" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585243909507" />
+    <state width="770" height="270" key="GridCell.Tab.0.center" timestamp="1585243909507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="767" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585067947235" />
-    <state width="767" height="271" key="GridCell.Tab.0.left" timestamp="1585067947235">
+    <state width="770" height="270" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585243909507" />
+    <state width="770" height="270" key="GridCell.Tab.0.left" timestamp="1585243909506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="767" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585067947235" />
-    <state width="767" height="271" key="GridCell.Tab.0.right" timestamp="1585067947235">
+    <state width="770" height="270" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585243909506" />
+    <state width="770" height="270" key="GridCell.Tab.0.right" timestamp="1585243909507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="767" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585067947235" />
+    <state width="770" height="270" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585243909507" />
     <state width="767" height="260" key="GridCell.Tab.1.bottom" timestamp="1585067733074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -230,10 +230,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="248" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585059248279" />
-    <state x="186" y="27" width="583" height="504" key="dock-window-1" timestamp="1585066353253">
+    <state x="302" y="185" width="583" height="505" key="dock-window-1" timestamp="1585242364695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="186" y="27" width="583" height="504" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585066353253" />
+    <state x="302" y="185" width="583" height="505" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585242364695" />
     <state x="138" y="315" width="583" height="504" key="dock-window-2" timestamp="1585066353253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
